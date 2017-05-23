@@ -1,0 +1,18 @@
+#datavalidationone{
+    color:red;
+    display:none;
+}
+#datavalidationrecords{
+    color:red;
+    display:none;
+}
+#datavalidationtwo{
+    color:red;
+    display:none;
+}
+#nbadata {
+    font-size:.75em;
+}
+.table-hover>tbody>tr:hover {
+    background-color: darkturquoise;
+}
